@@ -86,10 +86,3 @@ Tested the stored procedures and views directly with different inputs (normal or
 - The 10-minute cart lock is a fixed value; in a real product this should probably be configurable.
 - No automated test suite — testing was manual.
 
-## Team
-
-| Name | Student ID | Main contribution |
-|---|---|---|
-| Umama Zubair (lead) | 24K-0621 | Seller/admin modules, frontend styling, docs |
-| Rameen Ramzan | 24K-0557 | Schema design, ERD, database.sql, stored procedures |
-| Amna Sami | 24K-0561 | Customer module (browse, cart, checkout, orders, alerts) |
