@@ -2,7 +2,6 @@
 
 A web-based marketplace for near-expiry food products, built as a database systems course project. Sellers list products, and prices drop automatically the closer the product gets to its expiry date (up to 90% off).
 
-Course project for CS 2005: Database Systems, FAST-NUCES.
 
 ## What it does
 
